@@ -1,9 +1,5 @@
-# Mutual-Information-Based-GCD
-Mutual Information-based Generalized Category Discovery
+# Parametric Information Maximization for Generalized Category Discovery
 
-## Paper
-### [**Mutual Information-based Generalized Category Discovery**](https://arxiv.org/pdf/2212.00334.pdf)
-
-The code will be made available soon!
+**Important note**: The code for our paper [**Parametric Information Maximization for Generalized Category Discovery**](https://arxiv.org/pdf/2212.00334.pdf) will be made available here: [pim-generalized-category-discovery](https://github.com/ThalesGroup/pim-generalized-category-discovery) 
 
 
